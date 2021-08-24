@@ -1,0 +1,21 @@
+{
+  "short_name": "Fronteados",
+  "name": "Fronteados",
+  "icons": [
+    {
+      "src": "./",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#06367a",
+  "background_color": "#06367a",
+  "gcm_sender_id": "836636852727"
+}
