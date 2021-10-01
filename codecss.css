@@ -1,0 +1,30 @@
+body {
+ background-color:black;
+}
+strong{
+ color:white;
+ font-size:30px;
+}
+div{
+ color:white;
+}
+p{
+ color:white;
+ font-size:30px;
+}
+.glode{
+ color:Red;
+}
+#color{
+ color:red;
+}
+h1 {
+ text-align:center;
+ color:White;
+}
+button{
+ text-aling:center;
+}
+#clastg{
+ text-aling:30px;
+}
